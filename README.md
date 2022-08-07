@@ -22,7 +22,7 @@
 ---
 
 <br><br><br><br>
-<a href="https://www.codewars.com/users/ilia-io"><img src="https://www.codewars.com/users/ilia-io/badges/small" /></a>
+<a href="https://www.codewars.com/users/ilia-io"><img src="https://www.codewars.com/users/ilia-io/badges/large" /></a>
 
 
 
