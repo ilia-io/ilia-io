@@ -5,7 +5,7 @@
 ### 🛠️ Основные технологии:
 - HTML
 - CSS / SCSS / Tailwind
-- JavaScript (ES6+)
+- JavaScript
 - React (+React Hooks)
 - Redux Toolkit
 - Responsive/Adaptive design
@@ -13,6 +13,7 @@
 
 Уровень английского: Intermediate (B1)
 
+Связаться со мной: <a target="_blank" rel="noreferrer" href="https://t.me/ilia_i0"><img width="30" src="icon_tg.png" /></a>
 ---
 
 ## Мои проекты:
