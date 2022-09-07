@@ -24,6 +24,10 @@
 
 [Demo](https://image-gallery-zeta-three.vercel.app/) | [Code](https://github.com/ilia-io/image-gallery) 
 ---
+### 💼 Portfolio - Личный сайт с проектами
+
+[Demo](https://portfolio-chi-six-95.vercel.app/) | [Code](https://github.com/ilia-io/portfolio) 
+---
 ### 🎉 Квиз - мини-викторина
 
 [Demo](https://quiz-khaki-three.vercel.app/) | [Code](https://github.com/ilia-io/quiz) 
