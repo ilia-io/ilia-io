@@ -37,9 +37,6 @@
 
 [Demo](https://invites-rosy.vercel.app/) | [Code](https://github.com/ilia-io/invites) 
 ---
-### 📊 Admin dashboard - Панель управления администратора
-
-[Demo](https://dashboard-red-tau.vercel.app/) | [Code](https://github.com/ilia-io/dashboard) 
 ---
 <br><br><br><br>
 <a href="https://www.codewars.com/users/ilia-io"><img src="https://www.codewars.com/users/ilia-io/badges/large" /></a>
