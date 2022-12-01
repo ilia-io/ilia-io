@@ -4,7 +4,7 @@
 
 ### 🛠️ Основные технологии:
 - HTML
-- CSS / SCSS / Tailwind
+- CSS / SCSS
 - JavaScript
 - React (+React Hooks)
 - Redux Toolkit
@@ -15,27 +15,31 @@
 
 Связаться со мной: <a target="_blank" rel="noreferrer" href="https://t.me/ilia_i0"><img width="30" src="icon_tg.png" /></a>
 ---
-
+---
 ## Мои проекты:
-### 🍕 Интернет магазин пиццерии
+🧑 Список контактов с CRUD функционалом и логином/регистрацией (TypeScript, React, Redux)
 
-[Demo](https://pizza-ilia-io.vercel.app/) | [Code](https://github.com/ilia-io/pizza)
+[Demo](https://login-contacts.vercel.app) | [Code](https://github.com/ilia-io/login-contacts) 
 ---
-### 📷 Фото галерея
+📝 Простое ToDo-приложение (TypeScript, React, тесты)
 
-[Demo](https://image-gallery-zeta-three.vercel.app/) | [Code](https://github.com/ilia-io/image-gallery) 
+[Demo](https://todo-list-with-testing.vercel.app/) | [Code](https://github.com/ilia-io/todo-list-with-testing) 
 ---
-### 💼 Portfolio - Личный сайт с проектами
+📄 Таблица со сложной фильтрацией 
+
+[Demo](https://react-table-filter-pagination-zlxl.vercel.app/) | [Code](https://github.com/ilia-io/react-table-filter-pagination)
+---
+💼 Portfolio - Личный сайт с проектами
 
 [Demo](https://portfolio-chi-six-95.vercel.app/) | [Code](https://github.com/ilia-io/portfolio) 
 ---
-### 🎉 Квиз - мини-викторина
+🍕 Интернет магазин пиццерии (TypeScript, React, Redux, Mock API)
 
-[Demo](https://quiz-khaki-three.vercel.app/) | [Code](https://github.com/ilia-io/quiz) 
+[Demo](https://pizza-ilia-io.vercel.app/) | [Code](https://github.com/ilia-io/pizza)
 ---
-### 🧑🏻✅ Invites - список пользователей с возможностью отправить приглашение
+📷 Фото галерея
 
-[Demo](https://invites-rosy.vercel.app/) | [Code](https://github.com/ilia-io/invites) 
+[Demo](https://image-gallery-zeta-three.vercel.app/) | [Code](https://github.com/ilia-io/image-gallery) 
 ---
 ---
 <br><br><br><br>
