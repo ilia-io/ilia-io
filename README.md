@@ -17,6 +17,10 @@
 ---
 ---
 ## Мои проекты:
+📝 Todo-лист с CRUD функционалом и возможностью прикреплять файлы (React, MUI, Firebase)
+
+[Demo](https://react-todo-files-test.vercel.app/) | [Code](https://github.com/ilia-io/react-todo-files-test) 
+---
 🧑 Список контактов с CRUD функционалом и логином/регистрацией (TypeScript, React, Redux)
 
 [Demo](https://login-contacts.vercel.app) | [Code](https://github.com/ilia-io/login-contacts) 
@@ -37,9 +41,7 @@
 
 [Demo](https://pizza-ilia-io.vercel.app/) | [Code](https://github.com/ilia-io/pizza)
 ---
-📷 Фото галерея
 
-[Demo](https://image-gallery-zeta-three.vercel.app/) | [Code](https://github.com/ilia-io/image-gallery) 
 ---
 ---
 <br><br><br><br>
